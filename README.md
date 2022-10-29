@@ -2,14 +2,14 @@
 This Project works on basic logistic regression Problem to find Parkinsons disease.
 
 # Steps used
-Data Analysis
-Removing Negetive values
-Getting information about the data
-Data Visualization
-Boxplots for finding ouliers
-removing outliers
-checking values with high collinearity
-cleansing the data
-Seprating the test and train set
-Modelling data
-getting the accuracy and plotting the confusion Matrix
+1. Data Analysis.
+2. Removing Negetive values.
+3. Getting information about the data.
+4. Data Visualization.
+5. Boxplots and Histograms for finding ouliers and skewness of data.
+6. removing outliers.
+7. checking values with high collinearity.
+8. cleansing the data.
+9. Seprating the test and train set.
+10. Modelling data.
+11. Getting the accuracy and plotting the confusion Matrix.
